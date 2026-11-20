@@ -1,0 +1,1 @@
+# drybag-mailer-images
